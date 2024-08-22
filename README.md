@@ -11,6 +11,6 @@ This is a simple and interactive **Rock-Paper-Scissors** game built using HTML, 
 - **Responsive Design**: The game layout adapts to different screen sizes.
 
 ## Technologies Used -
-HTML: For the basic structure of the application.
-CSS: For styling the game interface.
-JavaScript: For game logic and interactivity.
+- **HTML**: For the basic structure of the application.
+- **CSS**: For styling the game interface.
+- **JavaScript**: For game logic and interactivity.
